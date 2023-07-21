@@ -1,1 +1,1 @@
-npx chromatic --project-token=chpt_dc907ccc60e1fd8
+npx storybook@latest init
